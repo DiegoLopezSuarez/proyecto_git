@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Diego Lopez Suarez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
